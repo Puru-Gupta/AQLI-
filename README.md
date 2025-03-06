@@ -7,9 +7,10 @@ GADM2 regions present in India: **668**
 
 ### 1.2 Calculate population-weighted pollution average of all years at country (GADM0) level
 - **Approach Used:**
-- ![Screenshot 2025-03-06 111155](https://github.com/user-attachments/assets/237aa7dd-7129-4a39-963a-787cc459762c)
-This approach ensures that areas with higher populations contribute more to the national pollution average, rather than treating all regions equally.
-
+1. Multiply the pollution level of each region by its population.
+2. Sum these values for all regions.
+3. Divide by the total population to get the population-weighted pollution.
+   
 - [[GitHub Repository](https://github.com/Puru-Gupta/AQLI-/blob/main/Output/1.2%20population%20weighted%20pollution%20average%20of%20all%20years.csv)](#)
 
 - **10 Most Polluted Countries in 2021:**  
