@@ -41,7 +41,9 @@ Highlights the **10 most polluted countries** in **dark red**
 
 ### 2.2 Potential Gain in Life Expectancy Map (Eastern vs. Western Europe)
 - **Classification:** Based on **EuroVoc** classification
-- **Source:** ![Europe_Potential_Gain_Life_Expectancy1](https://github.com/user-attachments/assets/cb18acd7-e30b-4a14-951c-dafc81e425c4)
+
+- [[Source](http://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri=http://eurovoc.europa.eu/100277)]
+
 
 - [[PDF Version](https://drive.google.com/file/d/1AX_PTSKBganZLdHOW7RbQaKo70KwjsfE/view?usp=drive_link)](#)
 
