@@ -6,8 +6,12 @@
 GADM2 regions present in India: **668**
 
 ### 1.2 Calculate population-weighted pollution average of all years at country (GADM0) level
-- Save the country-level file as a **CSV**
-- [GitHub Repository]([https://github.com/your-repo-name](https://github.com/Puru-Gupta/AQLI-/blob/main/Output/1.2%20population%20weighted%20pollution%20average%20of%20all%20years.csv))
+- **Approach Used:**
+- ![Screenshot 2025-03-06 111155](https://github.com/user-attachments/assets/237aa7dd-7129-4a39-963a-787cc459762c)
+This approach ensures that areas with higher populations contribute more to the national pollution average, rather than treating all regions equally.
+
+- [[GitHub Repository](https://github.com/Puru-Gupta/AQLI-/blob/main/Output/1.2%20population%20weighted%20pollution%20average%20of%20all%20years.csv)](#)
+
 - **10 Most Polluted Countries in 2021:**  
   *Bangladesh, India, Nepal, Pakistan, Mongolia, Myanmar, Democratic Republic of Congo, Republic of the Congo, Rwanda, Burundi*
 
@@ -45,7 +49,7 @@ GADM2 regions present in India: **668**
 
 ## 3. Google Drive 
 
-- **Drive Repository:** [[Insert Link Here](https://drive.google.com/drive/folders/1ZT7cofnaJWpRfc-D7eckLyZHdc1JEcJ_?usp=sharing)](#)
+- **Drive Repository:** [[Google Drive Link](https://drive.google.com/drive/folders/1ZT7cofnaJWpRfc-D7eckLyZHdc1JEcJ_?usp=sharing)](#)
 
 ## 4. Verbal Reasoning and Writing
 ### Key Takeaways from the AQLI Annual Update 2024
@@ -55,5 +59,4 @@ GADM2 regions present in India: **668**
 
 ---
 
-📌 **Note:** Replace placeholder GitHub links (`#`) with actual URLs.
 
