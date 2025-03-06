@@ -44,6 +44,7 @@ Highlights the **10 most polluted countries** in **dark red**
 
 - [[Source](http://op.europa.eu/en/web/eu-vocabularies/concept-scheme/-/resource?uri=http://eurovoc.europa.eu/100277)]
 
+![Europe_Potential_Gain_Life_Expectancy1](https://github.com/user-attachments/assets/3ac22513-dc9e-4070-b07b-dc3496b0c6c5)
 
 - [[PDF Version](https://drive.google.com/file/d/1AX_PTSKBganZLdHOW7RbQaKo70KwjsfE/view?usp=drive_link)](#)
 
