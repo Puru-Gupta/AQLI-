@@ -35,7 +35,7 @@ GADM2 regions present in India: **668**
 
 
 - **Global Country-Level Map**
-  - Highlights the **10 most polluted countries** in **dark red**
+Highlights the **10 most polluted countries** in **dark red**
  ![name0_10 most polluted countries ](https://github.com/user-attachments/assets/b1d983ee-70ec-4441-8a4f-783817ac951c)
 
 
