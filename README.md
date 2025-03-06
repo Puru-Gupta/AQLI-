@@ -25,7 +25,7 @@ GADM2 regions present in India: **668**
 
 ### 1.4 Population Weighted Pollution Trendline for Uttar Pradesh (1998-2021)
 ![1 4_Population_Weighted_Pollution_Trend](https://github.com/user-attachments/assets/42134a4c-b202-4190-a4de-018050a12f34)
-
+!
 
 ## 2. Geospatial Tasks and Questions
 
@@ -43,11 +43,12 @@ Highlights the **10 most polluted countries** in **dark red**
 - **Classification:** Based on **EuroVoc** classification
 - **Source:** ![Europe_Potential_Gain_Life_Expectancy1](https://github.com/user-attachments/assets/cb18acd7-e30b-4a14-951c-dafc81e425c4)
 
+- [[PDF Version](https://drive.google.com/file/d/1AX_PTSKBganZLdHOW7RbQaKo70KwjsfE/view?usp=drive_link)](#)
 
 ### 2.3 Static Global Pollution Map
 ![Country_Level_Air_Pollution](https://github.com/user-attachments/assets/cd47b060-f0f7-410e-8408-bb8cb926ffdd)
 
-
+[[SVG Version](https://drive.google.com/file/d/1f3C1EhZ3nDkZgOSlBQAAbnj78OqLQbIv/view?usp=drive_link)]
 ## 3. Google Drive 
 
 - **Drive Repository:** [[Google Drive Link](https://drive.google.com/drive/folders/1ZT7cofnaJWpRfc-D7eckLyZHdc1JEcJ_?usp=sharing)](#)
